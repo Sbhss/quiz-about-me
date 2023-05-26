@@ -118,7 +118,7 @@ for(var i = 0; i < question.length; i++){
   play(currentQuestion.question, currentQuestion.answer);
 }
 
-if(score === 10){
+if(score === 11){
   console.log("Impressive, lots of HUGSSS ")
 }else{
   console.log("Come Again from first ")
